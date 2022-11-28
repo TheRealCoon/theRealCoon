@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @br0k1z0l1
 - 👀 I’m interested in stock market, mechatronical engineering, gaming, anime.
 - 🌱 I’m currently learning programing basics.
-- 💞️ I’m looking to collaborate with pornstars on my private jet... dunno...
 - 📫 How to reach me? pls don't, I don't have social skills.
 
 <!---
