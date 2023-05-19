@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @br0k1z0l1
+- 👋 Hi, I’m @theCoon
 - 👀 I’m interested in stock market, mechatronical engineering, gaming, anime.
-- 🌱 I’m currently learning programing basics.
+- 🌱 I’m currently learning programing in Java.
 
 <!---
 br0k1z0l1/br0k1z0l1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
