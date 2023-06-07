@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theRealCoon
-- 👀 I’m interested in stock market, mechatronical engineering, gaming, anime.
+- 👀 I’m interested in stock market, programming, mechatronical engineering, gaming, anime.
 - 🌱 I’m currently learning programing in Java.
 
 <!---
