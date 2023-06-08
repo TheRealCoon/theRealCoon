@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theRealCoon
+- 👋 Hi, I’m @truSandor
 - 👀 I’m interested in stock market, programming, mechatronical engineering, gaming, anime.
 - 🌱 I’m currently learning programing in Java.
 
